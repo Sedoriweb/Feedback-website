@@ -1,6 +1,9 @@
 body{
     margin: 0;
     background-image: url("background1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     font-family: 'Poppins', sans-serif;
     background-size: 2000px;
     justify-content: center;
